@@ -1,0 +1,12 @@
+# Python virtual environment
+venv/
+
+# Log files
+*.log
+
+# IDE and OS files
+.vscode/
+.DS_Store
+
+# Test scripts with secrets
+check_balance.py
